@@ -1,7 +1,7 @@
 {
   "name": "@deeepvision/tg-bot.js",
   "description": "Telegram API - JS LIB",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Vitaliy Angolenko <v.angolenko@deepvision.team>",
   "main": "lib/index.js",
   "repository": {
