@@ -1,5 +1,5 @@
 {
-  "name": "@deepvision/tg.js",
+  "name": "@deeepvision/tg-bot.js",
   "description": "Telegram API - JS LIB",
   "version": "0.0.1",
   "author": "Vitaliy Angolenko <v.angolenko@deepvision.team>",
@@ -14,6 +14,9 @@
     "test": "jest --runInBand",
     "lint": "eslint ./src/**/**/*.ts",
     "fix": "eslint --fix ./src/**/**/*.ts"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
     "@deepvision/api-kit": "^1.1.5",
